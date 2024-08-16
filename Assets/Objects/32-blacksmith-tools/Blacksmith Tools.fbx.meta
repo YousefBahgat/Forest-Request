@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a477c6fc695690045b1b5d127e8e9951
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anvil
+    100002: Anvil_GRP
+    100004: //RootNode
+    100006: Chisel01
+    100008: Chisel02
+    100010: Chisels_Scissors_GRP
+    100012: Hammer01
+    100014: Hammer02
+    100016: Hammer_Sledge01
+    100018: Hammer_Sledge02
+    100020: Hammers_GRP
+    100022: Scissoros
+    100024: Stump
+    100026: Tongs01
+    100028: Tongs02
+    100030: Tongs04
+    100032: Tongs_GRP
+    400000: Anvil
+    400002: Anvil_GRP
+    400004: //RootNode
+    400006: Chisel01
+    400008: Chisel02
+    400010: Chisels_Scissors_GRP
+    400012: Hammer01
+    400014: Hammer02
+    400016: Hammer_Sledge01
+    400018: Hammer_Sledge02
+    400020: Hammers_GRP
+    400022: Scissoros
+    400024: Stump
+    400026: Tongs01
+    400028: Tongs02
+    400030: Tongs04
+    400032: Tongs_GRP
+    2100000: Chisels_Scissors_MAT
+    2100002: Hammers_MAT
+    2100004: Tongs_MAT
+    2100006: Stump_MAT
+    2100008: Anvil_MAT
+    2300000: Anvil
+    2300002: Chisel01
+    2300004: Chisel02
+    2300006: Hammer01
+    2300008: Hammer02
+    2300010: Hammer_Sledge01
+    2300012: Hammer_Sledge02
+    2300014: Scissoros
+    2300016: Stump
+    2300018: Tongs01
+    2300020: Tongs02
+    2300022: Tongs04
+    3300000: Anvil
+    3300002: Chisel01
+    3300004: Chisel02
+    3300006: Hammer01
+    3300008: Hammer02
+    3300010: Hammer_Sledge01
+    3300012: Hammer_Sledge02
+    3300014: Scissoros
+    3300016: Stump
+    3300018: Tongs01
+    3300020: Tongs02
+    3300022: Tongs04
+    4300000: Chisel01
+    4300002: Chisel02
+    4300004: Scissoros
+    4300006: Hammer_Sledge01
+    4300008: Hammer_Sledge02
+    4300010: Hammer01
+    4300012: Hammer02
+    4300014: Tongs01
+    4300016: Tongs02
+    4300018: Tongs04
+    4300020: Stump
+    4300022: Anvil
+    6400000: Anvil
+    6400002: Chisel01
+    6400004: Chisel02
+    6400006: Hammer01
+    6400008: Hammer02
+    6400010: Hammer_Sledge01
+    6400012: Hammer_Sledge02
+    6400014: Scissoros
+    6400016: Stump
+    6400018: Tongs01
+    6400020: Tongs02
+    6400022: Tongs04
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

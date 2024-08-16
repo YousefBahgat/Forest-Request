@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 48030395ab73b6549971e0411eaebc3a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anvil_Anvil_GRP
+    100002: Anvil_GRP_Stump
+    100004: //RootNode
+    100006: Chisels_Scissors_GRP_Chisel01
+    100008: Chisels_Scissors_GRP_Chisel02
+    100010: Hammer_Sledge02_Hammers_GRP
+    100012: Hammers_GRP_Hammer01
+    100014: Hammers_GRP_Hammer02
+    100016: Hammers_GRP_Hammer_Sledge01
+    100018: Scissoros_Chisels_Scissors_GRP
+    100020: Tongs04_Tongs_GRP
+    100022: Tongs_GRP_Tongs01
+    100024: Tongs_GRP_Tongs02
+    400000: Anvil_Anvil_GRP
+    400002: Anvil_GRP_Stump
+    400004: //RootNode
+    400006: Chisels_Scissors_GRP_Chisel01
+    400008: Chisels_Scissors_GRP_Chisel02
+    400010: Hammer_Sledge02_Hammers_GRP
+    400012: Hammers_GRP_Hammer01
+    400014: Hammers_GRP_Hammer02
+    400016: Hammers_GRP_Hammer_Sledge01
+    400018: Scissoros_Chisels_Scissors_GRP
+    400020: Tongs04_Tongs_GRP
+    400022: Tongs_GRP_Tongs01
+    400024: Tongs_GRP_Tongs02
+    2100000: Anvil_Anvil_GRPMat
+    2100002: Anvil_GRP_StumpMat
+    2100004: Chisels_Scissors_GRP_Chisel01Mat
+    2100006: Chisels_Scissors_GRP_Chisel02Mat
+    2100008: Hammer_Sledge02_Hammers_GRPMat
+    2100010: Hammers_GRP_Hammer01Mat
+    2100012: Hammers_GRP_Hammer02Mat
+    2100014: Hammers_GRP_Hammer_Sledge01Mat
+    2100016: Scissoros_Chisels_Scissors_GRPMat
+    2100018: Tongs04_Tongs_GRPMat
+    2100020: Tongs_GRP_Tongs01Mat
+    2100022: Tongs_GRP_Tongs02Mat
+    2300000: Anvil_Anvil_GRP
+    2300002: Anvil_GRP_Stump
+    2300004: Chisels_Scissors_GRP_Chisel01
+    2300006: Chisels_Scissors_GRP_Chisel02
+    2300008: Hammer_Sledge02_Hammers_GRP
+    2300010: Hammers_GRP_Hammer01
+    2300012: Hammers_GRP_Hammer02
+    2300014: Hammers_GRP_Hammer_Sledge01
+    2300016: Scissoros_Chisels_Scissors_GRP
+    2300018: Tongs04_Tongs_GRP
+    2300020: Tongs_GRP_Tongs01
+    2300022: Tongs_GRP_Tongs02
+    3300000: Anvil_Anvil_GRP
+    3300002: Anvil_GRP_Stump
+    3300004: Chisels_Scissors_GRP_Chisel01
+    3300006: Chisels_Scissors_GRP_Chisel02
+    3300008: Hammer_Sledge02_Hammers_GRP
+    3300010: Hammers_GRP_Hammer01
+    3300012: Hammers_GRP_Hammer02
+    3300014: Hammers_GRP_Hammer_Sledge01
+    3300016: Scissoros_Chisels_Scissors_GRP
+    3300018: Tongs04_Tongs_GRP
+    3300020: Tongs_GRP_Tongs01
+    3300022: Tongs_GRP_Tongs02
+    4300000: Anvil_Anvil_GRP
+    4300002: Anvil_GRP_Stump
+    4300004: Chisels_Scissors_GRP_Chisel01
+    4300006: Chisels_Scissors_GRP_Chisel02
+    4300008: Hammer_Sledge02_Hammers_GRP
+    4300010: Hammers_GRP_Hammer01
+    4300012: Hammers_GRP_Hammer02
+    4300014: Hammers_GRP_Hammer_Sledge01
+    4300016: Scissoros_Chisels_Scissors_GRP
+    4300018: Tongs04_Tongs_GRP
+    4300020: Tongs_GRP_Tongs01
+    4300022: Tongs_GRP_Tongs02
+    6400000: Anvil_Anvil_GRP
+    6400002: Anvil_GRP_Stump
+    6400004: Chisels_Scissors_GRP_Chisel01
+    6400006: Chisels_Scissors_GRP_Chisel02
+    6400008: Hammer_Sledge02_Hammers_GRP
+    6400010: Hammers_GRP_Hammer01
+    6400012: Hammers_GRP_Hammer02
+    6400014: Hammers_GRP_Hammer_Sledge01
+    6400016: Scissoros_Chisels_Scissors_GRP
+    6400018: Tongs04_Tongs_GRP
+    6400020: Tongs_GRP_Tongs01
+    6400022: Tongs_GRP_Tongs02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anvil_Anvil_GRPMat
+    second: {fileID: 2100000, guid: 3044f1fc8885d9148b26ecf15d50fb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anvil_GRP_StumpMat
+    second: {fileID: 2100000, guid: d9a404cf04e3cb24cb9ba7df45e2f737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chisels_Scissors_GRP_Chisel01Mat
+    second: {fileID: 2100000, guid: 8364c9bac5cf2d94f94af592514cd1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chisels_Scissors_GRP_Chisel02Mat
+    second: {fileID: 2100000, guid: 935dd482c570a144bbb11c7ace558975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hammer_Sledge02_Hammers_GRPMat
+    second: {fileID: 2100000, guid: 72e7743c7aed0ca439c0c9c62d9bf219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hammers_GRP_Hammer01Mat
+    second: {fileID: 2100000, guid: 3868413078368664c818588d0d9950aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hammers_GRP_Hammer02Mat
+    second: {fileID: 2100000, guid: 61b4566c7ebf774439ce2d5c39009b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hammers_GRP_Hammer_Sledge01Mat
+    second: {fileID: 2100000, guid: b3203b2fb601ec84ba848b0cd3ba5904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scissoros_Chisels_Scissors_GRPMat
+    second: {fileID: 2100000, guid: ccc71cfca33d7eb4eb1a3e36aea5e979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tongs04_Tongs_GRPMat
+    second: {fileID: 2100000, guid: 43d02bc618299a4499e52e80ba56cd6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tongs_GRP_Tongs01Mat
+    second: {fileID: 2100000, guid: a7d571dd9940b7a4c9ab0d52b77ba50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tongs_GRP_Tongs02Mat
+    second: {fileID: 2100000, guid: eb9b4e8b7cef9cf4a9eb39b18fbc2097, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
